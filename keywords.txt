@@ -1,0 +1,19 @@
+#######################################
+# Syntax Coloring Map for AC_BMP180
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+AC_BMP180	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+startTemperature	KEYWORD2
+GetTemperature	KEYWORD2
+startPressure	KEYWORD2
+GetPressure	KEYWORD2
